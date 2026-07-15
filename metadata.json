@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Python CAD Query System",
+  "description": "An interactive CAD system powered by Python and Gemini AI, enabling parametric 3D model generation, visualization, and customization via natural language queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
